@@ -1,6 +1,6 @@
 # índice
 1. [Introdução](#Introdução)
-2. [Gráfico Cohort](#Gráfico_Cohort)
+2. [Gráfico](#Gráfico)
 3. [Insights](#Insights)
 ---
 ![iStock-1325758122-1024x602](https://github.com/user-attachments/assets/4df9a040-c1eb-44ba-b806-c65c6b158810)
