@@ -26,7 +26,7 @@ respondidas a partir dos dados.
  O seu novo desafio como Analista de Dados é: Medir a retenção de 
 clientes.
 
-## Gráfico Cohort
+## Gráfico
 
 
 ![image](https://github.com/user-attachments/assets/c067c466-53c0-4587-99a2-a27c90862753)
